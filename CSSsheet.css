@@ -1,0 +1,26 @@
+header {
+background-color: blue;
+border: 5px solid black; 
+margin: 5px;
+padding: 5px;
+color: red; 
+}
+
+main {
+background-color: orange;
+color: black;
+border: 5px solid black; 
+font-size: 12px;
+font-family: comic sans ms;
+margin: 5px;
+padding: 5px;
+}
+
+p1 {
+font-size: 16px;
+font-family: comic sans ms;
+
+h1 {
+font-size: 18px;
+}
+
